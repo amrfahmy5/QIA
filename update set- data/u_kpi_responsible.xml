@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<unload unload_date="2024-09-04 13:45:58">
+<u_kpi_responsible action="INSERT_OR_UPDATE">
+<sys_created_by>Abd-Allah_CPD</sys_created_by>
+<sys_created_on>2024-05-05 13:48:05</sys_created_on>
+<sys_id>75d8c2acfb4a8650299cf832ceefdce9</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>Abd-Allah_CPD</sys_updated_by>
+<sys_updated_on>2024-05-05 13:48:05</sys_updated_on>
+<u_kpi display_value="Market share">1c47caa8fb4a8650299cf832ceefdc13</u_kpi>
+<u_team display_value="Human Capital">548e82effbbd8e10299cf832ceefdcec</u_team>
+</u_kpi_responsible>
+<u_kpi_responsible action="INSERT_OR_UPDATE">
+<sys_created_by>Abd-Allah_CPD</sys_created_by>
+<sys_created_on>2024-05-05 13:48:05</sys_created_on>
+<sys_id>f1d8c2acfb4a8650299cf832ceefdce9</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>Abd-Allah_CPD</sys_updated_by>
+<sys_updated_on>2024-05-05 13:48:05</sys_updated_on>
+<u_kpi display_value="Market share">1c47caa8fb4a8650299cf832ceefdc13</u_kpi>
+<u_team display_value="Marketing Taskforce">e1e6caa8fb4a8650299cf832ceefdc09</u_team>
+</u_kpi_responsible>
+<u_kpi_responsible action="INSERT_OR_UPDATE">
+<sys_created_by>Abd-Allah_CPD</sys_created_by>
+<sys_created_on>2024-05-05 13:48:05</sys_created_on>
+<sys_id>f9d8c2acfb4a8650299cf832ceefdce8</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>Abd-Allah_CPD</sys_updated_by>
+<sys_updated_on>2024-05-05 13:48:05</sys_updated_on>
+<u_kpi display_value="Market share">1c47caa8fb4a8650299cf832ceefdc13</u_kpi>
+<u_team display_value="Admin">f065a168fb468650299cf832ceefdc75</u_team>
+</u_kpi_responsible>
+<u_kpi_responsible action="INSERT_OR_UPDATE">
+<sys_created_by>Abd-Allah_CPD</sys_created_by>
+<sys_created_on>2024-05-06 07:11:00</sys_created_on>
+<sys_id>4787713cfb0a0a50b6d6fa71beefdcbd</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>Abd-Allah_CPD</sys_updated_by>
+<sys_updated_on>2024-05-06 07:11:00</sys_updated_on>
+<u_kpi display_value="Customer satisfaction">6da6b9b8fb0a0a50b6d6fa71beefdc9c</u_kpi>
+<u_team display_value="Finance Committee">c715f5dffbfd0e10b6d6fa71beefdc89</u_team>
+</u_kpi_responsible>
+<u_kpi_responsible action="INSERT_OR_UPDATE">
+<sys_created_by>Abd-Allah_CPD</sys_created_by>
+<sys_created_on>2024-05-06 07:11:00</sys_created_on>
+<sys_id>4f87713cfb0a0a50b6d6fa71beefdcbc</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>Abd-Allah_CPD</sys_updated_by>
+<sys_updated_on>2024-05-06 07:11:00</sys_updated_on>
+<u_kpi display_value="Customer satisfaction">6da6b9b8fb0a0a50b6d6fa71beefdc9c</u_kpi>
+<u_team display_value="IT">5b8675b8fb0a0a50b6d6fa71beefdc43</u_team>
+</u_kpi_responsible>
+<u_kpi_responsible action="INSERT_OR_UPDATE">
+<sys_created_by>Abdullah</sys_created_by>
+<sys_created_on>2024-05-07 05:42:49</sys_created_on>
+<sys_id>30fc6641fb0e8a50299cf832ceefdcf0</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>Abdullah</sys_updated_by>
+<sys_updated_on>2024-05-07 05:42:49</sys_updated_on>
+<u_kpi display_value="Cost reduction">76bca241fb0e8a50299cf832ceefdc2c</u_kpi>
+<u_team display_value="Finance Committee">c715f5dffbfd0e10b6d6fa71beefdc89</u_team>
+</u_kpi_responsible>
+<u_kpi_responsible action="INSERT_OR_UPDATE">
+<sys_created_by>Abdullah</sys_created_by>
+<sys_created_on>2024-05-07 05:42:49</sys_created_on>
+<sys_id>34fc6641fb0e8a50299cf832ceefdcf0</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>Abdullah</sys_updated_by>
+<sys_updated_on>2024-05-07 05:42:49</sys_updated_on>
+<u_kpi display_value="Cost reduction">76bca241fb0e8a50299cf832ceefdc2c</u_kpi>
+<u_team display_value="Marketing Taskforce">e1e6caa8fb4a8650299cf832ceefdc09</u_team>
+</u_kpi_responsible>
+<u_kpi_responsible action="INSERT_OR_UPDATE">
+<sys_created_by>Abdullah</sys_created_by>
+<sys_created_on>2024-05-07 05:42:49</sys_created_on>
+<sys_id>3cfc6641fb0e8a50299cf832ceefdcef</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>Abdullah</sys_updated_by>
+<sys_updated_on>2024-05-07 05:42:49</sys_updated_on>
+<u_kpi display_value="Cost reduction">76bca241fb0e8a50299cf832ceefdc2c</u_kpi>
+<u_team display_value="Admin">f065a168fb468650299cf832ceefdc75</u_team>
+</u_kpi_responsible>
+<u_kpi_responsible action="INSERT_OR_UPDATE">
+<sys_created_by>Abdullah</sys_created_by>
+<sys_created_on>2024-05-07 05:42:49</sys_created_on>
+<sys_id>70fc6641fb0e8a50299cf832ceefdcee</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>Abdullah</sys_updated_by>
+<sys_updated_on>2024-05-07 05:42:49</sys_updated_on>
+<u_kpi display_value="Cost reduction">76bca241fb0e8a50299cf832ceefdc2c</u_kpi>
+<u_team display_value="IT">5b8675b8fb0a0a50b6d6fa71beefdc43</u_team>
+</u_kpi_responsible>
+<u_kpi_responsible action="INSERT_OR_UPDATE">
+<sys_created_by>yossra.mohamed</sys_created_by>
+<sys_created_on>2024-05-01 12:19:08</sys_created_on>
+<sys_id>e90e4997fb390e10299cf832ceefdc19</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>yossra.mohamed</sys_updated_by>
+<sys_updated_on>2024-05-01 12:19:08</sys_updated_on>
+<u_kpi display_value="Training completion">af056453fbb50e10b6d6fa71beefdcde</u_kpi>
+<u_team display_value="Investment Strategy">bb0e8997fb390e10299cf832ceefdc0e</u_team>
+</u_kpi_responsible>
+<u_kpi_responsible action="INSERT_OR_UPDATE">
+<sys_created_by>riham.ahmed</sys_created_by>
+<sys_created_on>2024-05-01 14:59:37</sys_created_on>
+<sys_id>36d2351ffbfd0e10b6d6fa71beefdc97</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>riham.ahmed</sys_updated_by>
+<sys_updated_on>2024-05-01 14:59:37</sys_updated_on>
+<u_kpi display_value="Employee Well-being">bfb2311ffbfd0e10b6d6fa71beefdc17</u_kpi>
+<u_team display_value="Investment Strategy">bb0e8997fb390e10299cf832ceefdc0e</u_team>
+</u_kpi_responsible>
+<u_kpi_responsible action="INSERT_OR_UPDATE">
+<sys_created_by>riham.ahmed</sys_created_by>
+<sys_created_on>2024-05-02 06:57:34</sys_created_on>
+<sys_id>5b1e0167fb798e10b6d6fa71beefdc12</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>riham.ahmed</sys_updated_by>
+<sys_updated_on>2024-05-02 06:57:34</sys_updated_on>
+<u_kpi display_value="Stakeholder satisfaction">d2ad8967fb798e10b6d6fa71beefdc49</u_kpi>
+<u_team display_value="Finance Committee">c715f5dffbfd0e10b6d6fa71beefdc89</u_team>
+</u_kpi_responsible>
+<u_kpi_responsible action="INSERT_OR_UPDATE">
+<sys_created_by>riham.ahmed</sys_created_by>
+<sys_created_on>2024-05-01 15:22:30</sys_created_on>
+<sys_id>0a18f597fb314e10b6d6fa71beefdc6b</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>riham.ahmed</sys_updated_by>
+<sys_updated_on>2024-05-01 15:22:30</sys_updated_on>
+<u_kpi display_value="Quality Assurance">ff08f1d7fb314e10b6d6fa71beefdc56</u_kpi>
+<u_team display_value="Finance Committee">c715f5dffbfd0e10b6d6fa71beefdc89</u_team>
+</u_kpi_responsible>
+<u_kpi_responsible action="INSERT_OR_UPDATE">
+<sys_created_by>riham.ahmed</sys_created_by>
+<sys_created_on>2024-05-01 15:22:30</sys_created_on>
+<sys_id>8e18f597fb314e10b6d6fa71beefdc6b</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>riham.ahmed</sys_updated_by>
+<sys_updated_on>2024-05-01 15:22:30</sys_updated_on>
+<u_kpi display_value="Quality Assurance">ff08f1d7fb314e10b6d6fa71beefdc56</u_kpi>
+<u_team display_value="Investment Strategy">bb0e8997fb390e10299cf832ceefdc0e</u_team>
+</u_kpi_responsible>
+<u_kpi_responsible action="INSERT_OR_UPDATE">
+<sys_created_by>riham.ahmed</sys_created_by>
+<sys_created_on>2024-05-02 07:06:28</sys_created_on>
+<sys_id>61209d6ffb798e10b6d6fa71beefdccb</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>riham.ahmed</sys_updated_by>
+<sys_updated_on>2024-05-02 07:06:28</sys_updated_on>
+<u_kpi display_value="Revenue growth">ffaf852ffb798e10b6d6fa71beefdc72</u_kpi>
+<u_team display_value="Investment Strategy">bb0e8997fb390e10299cf832ceefdc0e</u_team>
+</u_kpi_responsible>
+<u_kpi_responsible action="INSERT_OR_UPDATE">
+<sys_created_by>riham.ahmed</sys_created_by>
+<sys_created_on>2024-05-02 08:50:27</sys_created_on>
+<sys_id>7cf7a123fb7d8e10b6d6fa71beefdc8e</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>riham.ahmed</sys_updated_by>
+<sys_updated_on>2024-05-02 08:50:27</sys_updated_on>
+<u_kpi display_value="Revenue growth">ffaf852ffb798e10b6d6fa71beefdc72</u_kpi>
+<u_team display_value="Investment Strategy">bb0e8997fb390e10299cf832ceefdc0e</u_team>
+</u_kpi_responsible>
+<u_kpi_responsible action="INSERT_OR_UPDATE">
+<sys_created_by>riham.ahmed</sys_created_by>
+<sys_created_on>2024-05-02 07:06:28</sys_created_on>
+<sys_id>e9209d6ffb798e10b6d6fa71beefdcca</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>riham.ahmed</sys_updated_by>
+<sys_updated_on>2024-05-02 07:06:28</sys_updated_on>
+<u_kpi display_value="Revenue growth">ffaf852ffb798e10b6d6fa71beefdc72</u_kpi>
+<u_team display_value="Finance Committee">c715f5dffbfd0e10b6d6fa71beefdc89</u_team>
+</u_kpi_responsible>
+<u_kpi_responsible action="INSERT_OR_UPDATE">
+<sys_created_by>riham.ahmed</sys_created_by>
+<sys_created_on>2024-05-02 08:50:27</sys_created_on>
+<sys_id>f4f7a123fb7d8e10b6d6fa71beefdc8e</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>riham.ahmed</sys_updated_by>
+<sys_updated_on>2024-05-02 08:50:27</sys_updated_on>
+<u_kpi display_value="Revenue growth">ffaf852ffb798e10b6d6fa71beefdc72</u_kpi>
+<u_team display_value="Finance Committee">c715f5dffbfd0e10b6d6fa71beefdc89</u_team>
+</u_kpi_responsible>
+</unload>

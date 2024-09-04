@@ -1,0 +1,528 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<unload unload_date="2024-09-04 13:42:56">
+<u_kpi action="INSERT_OR_UPDATE">
+<sys_created_by>riham.ahmed</sys_created_by>
+<sys_created_on>2024-05-01 15:08:10</sys_created_on>
+<sys_id>02c47513fb314e10b6d6fa71beefdcd5</sys_id>
+<sys_mod_count>50</sys_mod_count>
+<sys_updated_by>amr.mohamed</sys_updated_by>
+<sys_updated_on>2024-09-04 12:37:46</sys_updated_on>
+<u_base_value/>
+<u_data_source>manual</u_data_source>
+<u_due_days>3</u_due_days>
+<u_frequency>yearly</u_frequency>
+<u_kpi_name>Productivity</u_kpi_name>
+<u_methodology/>
+<u_min_value>30</u_min_value>
+<u_next_execution_date>2026-05-27</u_next_execution_date>
+<u_start_date>2024-05-01 17:44:07</u_start_date>
+<u_stretch_value/>
+<u_teams>bb0e8997fb390e10299cf832ceefdc0e,c715f5dffbfd0e10b6d6fa71beefdc89,548e82effbbd8e10299cf832ceefdcec,f065a168fb468650299cf832ceefdc75</u_teams>
+<u_type_of_kpi>3</u_type_of_kpi>
+<u_unit>percentage</u_unit>
+</u_kpi>
+<u_kpi action="INSERT_OR_UPDATE">
+<sys_created_by>yossra.mohamed</sys_created_by>
+<sys_created_on>2024-05-01 22:38:45</sys_created_on>
+<sys_id>86ebdb53fb794e10299cf832ceefdca3</sys_id>
+<sys_mod_count>6</sys_mod_count>
+<sys_updated_by>Abdullah</sys_updated_by>
+<sys_updated_on>2024-05-09 07:02:35</sys_updated_on>
+<u_base_value/>
+<u_data_source>manual</u_data_source>
+<u_due_days>0</u_due_days>
+<u_frequency>quarterly</u_frequency>
+<u_kpi_name>Budget adherence</u_kpi_name>
+<u_methodology/>
+<u_min_value>25</u_min_value>
+<u_next_execution_date/>
+<u_start_date/>
+<u_stretch_value/>
+<u_teams/>
+<u_type_of_kpi>2</u_type_of_kpi>
+<u_unit/>
+</u_kpi>
+<u_kpi action="INSERT_OR_UPDATE">
+<sys_created_by>riham.ahmed</sys_created_by>
+<sys_created_on>2024-05-01 15:20:53</sys_created_on>
+<sys_id>94b7f597fb314e10b6d6fa71beefdc28</sys_id>
+<sys_mod_count>7</sys_mod_count>
+<sys_updated_by>Abdullah</sys_updated_by>
+<sys_updated_on>2024-05-09 07:02:30</sys_updated_on>
+<u_base_value/>
+<u_data_source>manual</u_data_source>
+<u_due_days>6</u_due_days>
+<u_frequency>quarterly</u_frequency>
+<u_kpi_name>New product development</u_kpi_name>
+<u_methodology/>
+<u_min_value>15</u_min_value>
+<u_next_execution_date>2024-05-03</u_next_execution_date>
+<u_start_date/>
+<u_stretch_value/>
+<u_teams>c715f5dffbfd0e10b6d6fa71beefdc89,bb0e899</u_teams>
+<u_type_of_kpi>4</u_type_of_kpi>
+<u_unit>number</u_unit>
+</u_kpi>
+<u_kpi action="INSERT_OR_UPDATE">
+<sys_created_by>riham.ahmed</sys_created_by>
+<sys_created_on>2024-05-01 15:17:59</sys_created_on>
+<sys_id>99073157fb314e10b6d6fa71beefdc8f</sys_id>
+<sys_mod_count>5</sys_mod_count>
+<sys_updated_by>Abdullah</sys_updated_by>
+<sys_updated_on>2024-05-09 07:03:03</sys_updated_on>
+<u_base_value/>
+<u_data_source>manual</u_data_source>
+<u_due_days/>
+<u_frequency>quarterly</u_frequency>
+<u_kpi_name>Environmental Impact</u_kpi_name>
+<u_methodology/>
+<u_min_value>10</u_min_value>
+<u_next_execution_date/>
+<u_start_date/>
+<u_stretch_value/>
+<u_teams>c715f5dffbfd0e10b6d6fa71beefdc89,bb0e899</u_teams>
+<u_type_of_kpi>2</u_type_of_kpi>
+<u_unit>number</u_unit>
+</u_kpi>
+<u_kpi action="INSERT_OR_UPDATE">
+<sys_created_by>riham.ahmed</sys_created_by>
+<sys_created_on>2024-05-01 15:14:27</sys_created_on>
+<sys_id>a93631d3fb314e10b6d6fa71beefdc77</sys_id>
+<sys_mod_count>5</sys_mod_count>
+<sys_updated_by>Abdullah</sys_updated_by>
+<sys_updated_on>2024-05-09 07:02:59</sys_updated_on>
+<u_base_value/>
+<u_data_source>manual</u_data_source>
+<u_due_days/>
+<u_frequency>monthly</u_frequency>
+<u_kpi_name>Supply Chain Efficiency</u_kpi_name>
+<u_methodology/>
+<u_min_value>105</u_min_value>
+<u_next_execution_date/>
+<u_start_date/>
+<u_stretch_value/>
+<u_teams>c715f5dffbfd0e10b6d6fa71beefdc89,bb0e899</u_teams>
+<u_type_of_kpi>3</u_type_of_kpi>
+<u_unit>fraction</u_unit>
+</u_kpi>
+<u_kpi action="INSERT_OR_UPDATE">
+<sys_created_by>riham.ahmed</sys_created_by>
+<sys_created_on>2024-05-01 09:19:56</sys_created_on>
+<sys_id>af056453fbb50e10b6d6fa71beefdcde</sys_id>
+<sys_mod_count>6</sys_mod_count>
+<sys_updated_by>Abdullah</sys_updated_by>
+<sys_updated_on>2024-05-09 07:02:11</sys_updated_on>
+<u_base_value/>
+<u_data_source>manual</u_data_source>
+<u_due_days/>
+<u_frequency>monthly</u_frequency>
+<u_kpi_name>Training completion</u_kpi_name>
+<u_methodology/>
+<u_min_value>123</u_min_value>
+<u_next_execution_date/>
+<u_start_date/>
+<u_stretch_value/>
+<u_teams>c715f5dffbfd0e10b6d6fa71beefdc89,bb0e8997fb390e10299cf832ceefdc0e</u_teams>
+<u_type_of_kpi>3</u_type_of_kpi>
+<u_unit>fraction</u_unit>
+</u_kpi>
+<u_kpi action="INSERT_OR_UPDATE">
+<sys_created_by>riham.ahmed</sys_created_by>
+<sys_created_on>2024-05-02 06:57:34</sys_created_on>
+<sys_id>d2ad8967fb798e10b6d6fa71beefdc49</sys_id>
+<sys_mod_count>19</sys_mod_count>
+<sys_updated_by>yossra.mohamed</sys_updated_by>
+<sys_updated_on>2024-08-30 07:00:10</sys_updated_on>
+<u_base_value>70</u_base_value>
+<u_data_source>manual</u_data_source>
+<u_due_days/>
+<u_frequency>weekly</u_frequency>
+<u_kpi_name>Stakeholder satisfaction</u_kpi_name>
+<u_methodology>ab</u_methodology>
+<u_min_value>80</u_min_value>
+<u_next_execution_date>2024-09-06</u_next_execution_date>
+<u_start_date/>
+<u_stretch_value>90</u_stretch_value>
+<u_teams>c715f5dffbfd0e10b6d6fa71beefdc89</u_teams>
+<u_type_of_kpi>3</u_type_of_kpi>
+<u_unit>percentage</u_unit>
+</u_kpi>
+<u_kpi action="INSERT_OR_UPDATE">
+<sys_created_by>yossra.mohamed</sys_created_by>
+<sys_created_on>2024-05-02 14:50:10</sys_created_on>
+<sys_id>e92a7aebfb75ce10299cf832ceefdc3a</sys_id>
+<sys_mod_count>8</sys_mod_count>
+<sys_updated_by>yossra.mohamed</sys_updated_by>
+<sys_updated_on>2024-08-09 07:00:12</sys_updated_on>
+<u_base_value/>
+<u_data_source>manual</u_data_source>
+<u_due_days/>
+<u_frequency>quarterly</u_frequency>
+<u_kpi_name>Employee engagement</u_kpi_name>
+<u_methodology/>
+<u_min_value>15</u_min_value>
+<u_next_execution_date>2024-11-09</u_next_execution_date>
+<u_start_date/>
+<u_stretch_value/>
+<u_teams>c715f5dffbfd0e10b6d6fa71beefdc89,bb0e8997fb390e10299cf832ceefdc0e</u_teams>
+<u_type_of_kpi>4</u_type_of_kpi>
+<u_unit>number</u_unit>
+</u_kpi>
+<u_kpi action="INSERT_OR_UPDATE">
+<sys_created_by>riham.ahmed</sys_created_by>
+<sys_created_on>2024-05-01 15:22:30</sys_created_on>
+<sys_id>ff08f1d7fb314e10b6d6fa71beefdc56</sys_id>
+<sys_mod_count>7</sys_mod_count>
+<sys_updated_by>Abdullah</sys_updated_by>
+<sys_updated_on>2024-05-09 07:02:38</sys_updated_on>
+<u_base_value/>
+<u_data_source>manual</u_data_source>
+<u_due_days/>
+<u_frequency>yearly</u_frequency>
+<u_kpi_name>Quality Assurance</u_kpi_name>
+<u_methodology/>
+<u_min_value>100</u_min_value>
+<u_next_execution_date/>
+<u_start_date/>
+<u_stretch_value/>
+<u_teams>c715f5dffbfd0e10b6d6fa71beefdc89,bb0e899</u_teams>
+<u_type_of_kpi>3</u_type_of_kpi>
+<u_unit>fraction</u_unit>
+</u_kpi>
+<u_kpi action="INSERT_OR_UPDATE">
+<sys_created_by>riham.ahmed</sys_created_by>
+<sys_created_on>2024-05-01 14:11:58</sys_created_on>
+<sys_id>83c72557fbbd0e10b6d6fa71beefdc8d</sys_id>
+<sys_mod_count>6</sys_mod_count>
+<sys_updated_by>Abdullah</sys_updated_by>
+<sys_updated_on>2024-05-09 07:03:03</sys_updated_on>
+<u_base_value/>
+<u_data_source>manual</u_data_source>
+<u_due_days/>
+<u_frequency>quarterly</u_frequency>
+<u_kpi_name>Project completion time</u_kpi_name>
+<u_methodology>ab</u_methodology>
+<u_min_value>10</u_min_value>
+<u_next_execution_date/>
+<u_start_date/>
+<u_stretch_value/>
+<u_teams/>
+<u_type_of_kpi>1</u_type_of_kpi>
+<u_unit>fraction</u_unit>
+</u_kpi>
+<u_kpi action="INSERT_OR_UPDATE">
+<sys_created_by>Abdullah</sys_created_by>
+<sys_created_on>2024-05-07 05:42:49</sys_created_on>
+<sys_id>76bca241fb0e8a50299cf832ceefdc2c</sys_id>
+<sys_mod_count>1</sys_mod_count>
+<sys_updated_by>oscar</sys_updated_by>
+<sys_updated_on>2024-05-07 16:32:16</sys_updated_on>
+<u_base_value>20</u_base_value>
+<u_data_source>manual</u_data_source>
+<u_due_days>3</u_due_days>
+<u_frequency>quarterly</u_frequency>
+<u_kpi_name>Cost reduction</u_kpi_name>
+<u_methodology>ab</u_methodology>
+<u_min_value>10</u_min_value>
+<u_next_execution_date>2024-05-06</u_next_execution_date>
+<u_start_date/>
+<u_stretch_value>30</u_stretch_value>
+<u_teams>5b8675b8fb0a0a50b6d6fa71beefdc43,f065a168fb468650299cf832ceefdc75,c715f5dffbfd0e10b6d6fa71beefdc89,e1e6caa8fb4a8650299cf832ceefdc09</u_teams>
+<u_type_of_kpi>3</u_type_of_kpi>
+<u_unit>percentage</u_unit>
+</u_kpi>
+<u_kpi action="INSERT_OR_UPDATE">
+<sys_created_by>riham.ahmed</sys_created_by>
+<sys_created_on>2024-05-01 14:45:23</sys_created_on>
+<sys_id>098f6557fbfd0e10b6d6fa71beefdc24</sys_id>
+<sys_mod_count>23</sys_mod_count>
+<sys_updated_by>yossra.mohamed</sys_updated_by>
+<sys_updated_on>2024-08-29 07:00:08</sys_updated_on>
+<u_base_value>50</u_base_value>
+<u_data_source>manual</u_data_source>
+<u_due_days>5</u_due_days>
+<u_frequency>weekly</u_frequency>
+<u_kpi_name>Clear code</u_kpi_name>
+<u_methodology>ab</u_methodology>
+<u_min_value>80</u_min_value>
+<u_next_execution_date>2024-09-05</u_next_execution_date>
+<u_start_date/>
+<u_stretch_value>100</u_stretch_value>
+<u_teams/>
+<u_type_of_kpi>3</u_type_of_kpi>
+<u_unit>percentage</u_unit>
+</u_kpi>
+<u_kpi action="INSERT_OR_UPDATE">
+<sys_created_by>taha.admin</sys_created_by>
+<sys_created_on>2024-05-02 11:44:04</sys_created_on>
+<sys_id>102f4223fbfd8e10299cf832ceefdc1f</sys_id>
+<sys_mod_count>18</sys_mod_count>
+<sys_updated_by>oscar</sys_updated_by>
+<sys_updated_on>2024-05-07 16:33:06</sys_updated_on>
+<u_base_value>15</u_base_value>
+<u_data_source>manual</u_data_source>
+<u_due_days>3</u_due_days>
+<u_frequency>monthly</u_frequency>
+<u_kpi_name>Market expansion</u_kpi_name>
+<u_methodology>ab</u_methodology>
+<u_min_value>10</u_min_value>
+<u_next_execution_date>2025-05-02</u_next_execution_date>
+<u_start_date/>
+<u_stretch_value>20</u_stretch_value>
+<u_teams>548e82effbbd8e10299cf832ceefdcec,c715f5dffbfd0e10b6d6fa71beefdc89</u_teams>
+<u_type_of_kpi>1</u_type_of_kpi>
+<u_unit>percentage</u_unit>
+</u_kpi>
+<u_kpi action="INSERT_OR_UPDATE">
+<sys_created_by>Abdullah</sys_created_by>
+<sys_created_on>2024-05-10 07:00:45</sys_created_on>
+<sys_id>145bd2c2fb420a90b6d6fa71beefdce4</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>Abdullah</sys_updated_by>
+<sys_updated_on>2024-05-10 07:00:45</sys_updated_on>
+<u_base_value/>
+<u_data_source>manual</u_data_source>
+<u_due_days>3</u_due_days>
+<u_frequency>weekly</u_frequency>
+<u_kpi_name>Uptime availability</u_kpi_name>
+<u_methodology/>
+<u_min_value>90</u_min_value>
+<u_next_execution_date>2024-05-10</u_next_execution_date>
+<u_start_date/>
+<u_stretch_value/>
+<u_teams>5b8675b8fb0a0a50b6d6fa71beefdc43,8b6f962cfb0e8650299cf832ceefdc96,c3c97001fbc28a50b6d6fa71beefdccb</u_teams>
+<u_type_of_kpi>1</u_type_of_kpi>
+<u_unit>percentage</u_unit>
+</u_kpi>
+<u_kpi action="INSERT_OR_UPDATE">
+<sys_created_by>riham.ahmed</sys_created_by>
+<sys_created_on>2024-05-02 07:06:28</sys_created_on>
+<sys_id>ffaf852ffb798e10b6d6fa71beefdc72</sys_id>
+<sys_mod_count>13</sys_mod_count>
+<sys_updated_by>yossra.mohamed</sys_updated_by>
+<sys_updated_on>2024-08-07 07:00:17</sys_updated_on>
+<u_base_value>70</u_base_value>
+<u_data_source>manual</u_data_source>
+<u_due_days>3</u_due_days>
+<u_frequency>monthly</u_frequency>
+<u_kpi_name>Revenue growth</u_kpi_name>
+<u_methodology>ab</u_methodology>
+<u_min_value>80</u_min_value>
+<u_next_execution_date>2024-09-07</u_next_execution_date>
+<u_start_date/>
+<u_stretch_value>90</u_stretch_value>
+<u_teams>c715f5dffbfd0e10b6d6fa71beefdc89,bb0e8997fb390e10299cf832ceefdc0e</u_teams>
+<u_type_of_kpi>3</u_type_of_kpi>
+<u_unit>percentage</u_unit>
+</u_kpi>
+<u_kpi action="INSERT_OR_UPDATE">
+<sys_created_by>Abd-Allah_CPD</sys_created_by>
+<sys_created_on>2024-05-05 13:48:05</sys_created_on>
+<sys_id>1c47caa8fb4a8650299cf832ceefdc13</sys_id>
+<sys_mod_count>4</sys_mod_count>
+<sys_updated_by>yossra.mohamed</sys_updated_by>
+<sys_updated_on>2024-09-01 07:00:16</sys_updated_on>
+<u_base_value>80</u_base_value>
+<u_data_source>manual</u_data_source>
+<u_due_days>5</u_due_days>
+<u_frequency>monthly</u_frequency>
+<u_kpi_name>Market share</u_kpi_name>
+<u_methodology>ab</u_methodology>
+<u_min_value>70</u_min_value>
+<u_next_execution_date>2024-10-01</u_next_execution_date>
+<u_start_date/>
+<u_stretch_value>90</u_stretch_value>
+<u_teams>f065a168fb468650299cf832ceefdc75,e1e6caa8fb4a8650299cf832ceefdc09,548e82effbbd8e10299cf832ceefdcec</u_teams>
+<u_type_of_kpi>3</u_type_of_kpi>
+<u_unit>percentage</u_unit>
+</u_kpi>
+<u_kpi action="INSERT_OR_UPDATE">
+<sys_created_by>riham.ahmed</sys_created_by>
+<sys_created_on>2024-05-01 15:11:26</sys_created_on>
+<sys_id>2e753d53fb314e10b6d6fa71beefdcad</sys_id>
+<sys_mod_count>6</sys_mod_count>
+<sys_updated_by>Abdullah</sys_updated_by>
+<sys_updated_on>2024-05-09 07:02:30</sys_updated_on>
+<u_base_value/>
+<u_data_source>manual</u_data_source>
+<u_due_days/>
+<u_frequency>monthly</u_frequency>
+<u_kpi_name>Delivery on Time</u_kpi_name>
+<u_methodology/>
+<u_min_value>15</u_min_value>
+<u_next_execution_date/>
+<u_start_date/>
+<u_stretch_value/>
+<u_teams>c715f5dffbfd0e10b6d6fa71beefdc89,bb0e899</u_teams>
+<u_type_of_kpi>2</u_type_of_kpi>
+<u_unit>percentage</u_unit>
+</u_kpi>
+<u_kpi action="INSERT_OR_UPDATE">
+<sys_created_by>Abd-Allah_CPD</sys_created_by>
+<sys_created_on>2024-05-06 07:11:01</sys_created_on>
+<sys_id>6da6b9b8fb0a0a50b6d6fa71beefdc9c</sys_id>
+<sys_mod_count>3</sys_mod_count>
+<sys_updated_by>yossra.mohamed</sys_updated_by>
+<sys_updated_on>2024-09-01 07:00:20</sys_updated_on>
+<u_base_value>80</u_base_value>
+<u_data_source>manual</u_data_source>
+<u_due_days>5</u_due_days>
+<u_frequency>quarterly</u_frequency>
+<u_kpi_name>Customer satisfaction</u_kpi_name>
+<u_methodology>ab</u_methodology>
+<u_min_value>70</u_min_value>
+<u_next_execution_date>2024-12-01</u_next_execution_date>
+<u_start_date/>
+<u_stretch_value>90</u_stretch_value>
+<u_teams>5b8675b8fb0a0a50b6d6fa71beefdc43,c715f5dffbfd0e10b6d6fa71beefdc89</u_teams>
+<u_type_of_kpi>3</u_type_of_kpi>
+<u_unit>percentage</u_unit>
+</u_kpi>
+<u_kpi action="INSERT_OR_UPDATE">
+<sys_created_by>riham.ahmed</sys_created_by>
+<sys_created_on>2024-05-01 15:10:07</sys_created_on>
+<sys_id>6e353553fb314e10b6d6fa71beefdc5d</sys_id>
+<sys_mod_count>6</sys_mod_count>
+<sys_updated_by>Abdullah</sys_updated_by>
+<sys_updated_on>2024-05-09 07:02:35</sys_updated_on>
+<u_base_value/>
+<u_data_source>manual</u_data_source>
+<u_due_days/>
+<u_frequency>weekly</u_frequency>
+<u_kpi_name>Customer satisfaction</u_kpi_name>
+<u_methodology/>
+<u_min_value>25</u_min_value>
+<u_next_execution_date/>
+<u_start_date/>
+<u_stretch_value/>
+<u_teams>c715f5dffbfd0e10b6d6fa71beefdc89,bb0e899</u_teams>
+<u_type_of_kpi>2</u_type_of_kpi>
+<u_unit>percentage</u_unit>
+</u_kpi>
+<u_kpi action="INSERT_OR_UPDATE">
+<sys_created_by>riham.ahmed</sys_created_by>
+<sys_created_on>2024-05-01 14:22:41</sys_created_on>
+<sys_id>c85aa99bfbbd0e10b6d6fa71beefdcab</sys_id>
+<sys_mod_count>6</sys_mod_count>
+<sys_updated_by>yossra.mohamed</sys_updated_by>
+<sys_updated_on>2024-05-16 07:00:07</sys_updated_on>
+<u_base_value/>
+<u_data_source>automated</u_data_source>
+<u_due_days>6</u_due_days>
+<u_frequency>yearly</u_frequency>
+<u_kpi_name>Talent retention</u_kpi_name>
+<u_methodology>ab</u_methodology>
+<u_min_value>105</u_min_value>
+<u_next_execution_date>2025-05-16</u_next_execution_date>
+<u_start_date/>
+<u_stretch_value/>
+<u_teams/>
+<u_type_of_kpi>3</u_type_of_kpi>
+<u_unit>number</u_unit>
+</u_kpi>
+<u_kpi action="INSERT_OR_UPDATE">
+<sys_created_by>riham.ahmed</sys_created_by>
+<sys_created_on>2024-05-01 15:04:55</sys_created_on>
+<sys_id>6df3f95ffbfd0e10b6d6fa71beefdc10</sys_id>
+<sys_mod_count>5</sys_mod_count>
+<sys_updated_by>Abdullah</sys_updated_by>
+<sys_updated_on>2024-05-09 07:01:36</sys_updated_on>
+<u_base_value>66</u_base_value>
+<u_data_source>automated</u_data_source>
+<u_due_days>4</u_due_days>
+<u_frequency>weekly</u_frequency>
+<u_kpi_name>Quality</u_kpi_name>
+<u_methodology>ab</u_methodology>
+<u_min_value>88</u_min_value>
+<u_next_execution_date>2024-05-01</u_next_execution_date>
+<u_start_date/>
+<u_stretch_value>99</u_stretch_value>
+<u_teams>bb0e8997fb390e10299cf832ceefdc0e</u_teams>
+<u_type_of_kpi>3</u_type_of_kpi>
+<u_unit>fraction</u_unit>
+</u_kpi>
+<u_kpi action="INSERT_OR_UPDATE">
+<sys_created_by>oscar</sys_created_by>
+<sys_created_on>2024-05-06 21:20:41</sys_created_on>
+<sys_id>dce93401fbc28a50b6d6fa71beefdc79</sys_id>
+<sys_mod_count>15</sys_mod_count>
+<sys_updated_by>yossra.mohamed</sys_updated_by>
+<sys_updated_on>2024-08-30 07:00:11</sys_updated_on>
+<u_base_value>200</u_base_value>
+<u_data_source>automated</u_data_source>
+<u_due_days/>
+<u_frequency>weekly</u_frequency>
+<u_kpi_name>Profitability</u_kpi_name>
+<u_methodology>ab</u_methodology>
+<u_min_value>200</u_min_value>
+<u_next_execution_date>2024-09-06</u_next_execution_date>
+<u_start_date/>
+<u_stretch_value/>
+<u_teams>e1e6caa8fb4a8650299cf832ceefdc09,c3c97001fbc28a50b6d6fa71beefdccb</u_teams>
+<u_type_of_kpi>3</u_type_of_kpi>
+<u_unit>number</u_unit>
+</u_kpi>
+<u_kpi action="INSERT_OR_UPDATE">
+<sys_created_by>riham.ahmed</sys_created_by>
+<sys_created_on>2024-05-01 14:28:13</sys_created_on>
+<sys_id>e25b2d1ffbbd0e10b6d6fa71beefdc47</sys_id>
+<sys_mod_count>4</sys_mod_count>
+<sys_updated_by>Abdullah</sys_updated_by>
+<sys_updated_on>2024-05-09 07:03:03</sys_updated_on>
+<u_base_value/>
+<u_data_source>automated</u_data_source>
+<u_due_days/>
+<u_frequency>monthly</u_frequency>
+<u_kpi_name>Innovation Rate</u_kpi_name>
+<u_methodology>ab</u_methodology>
+<u_min_value>10</u_min_value>
+<u_next_execution_date/>
+<u_start_date/>
+<u_stretch_value/>
+<u_teams/>
+<u_type_of_kpi>3</u_type_of_kpi>
+<u_unit>number</u_unit>
+</u_kpi>
+<u_kpi action="INSERT_OR_UPDATE">
+<sys_created_by>oscar</sys_created_by>
+<sys_created_on>2024-05-06 17:56:53</sys_created_on>
+<sys_id>863bc845fbca4a50b6d6fa71beefdc84</sys_id>
+<sys_mod_count>1</sys_mod_count>
+<sys_updated_by>oscar</sys_updated_by>
+<sys_updated_on>2024-05-07 16:32:33</sys_updated_on>
+<u_base_value>10</u_base_value>
+<u_data_source>automated</u_data_source>
+<u_due_days/>
+<u_frequency>weekly</u_frequency>
+<u_kpi_name>Process improvement</u_kpi_name>
+<u_methodology>ab</u_methodology>
+<u_min_value>100</u_min_value>
+<u_next_execution_date>2024-05-06</u_next_execution_date>
+<u_start_date/>
+<u_stretch_value>0</u_stretch_value>
+<u_teams>e1e6caa8fb4a8650299cf832ceefdc09</u_teams>
+<u_type_of_kpi>2</u_type_of_kpi>
+<u_unit>number</u_unit>
+</u_kpi>
+<u_kpi action="INSERT_OR_UPDATE">
+<sys_created_by>riham.ahmed</sys_created_by>
+<sys_created_on>2024-05-01 14:59:37</sys_created_on>
+<sys_id>bfb2311ffbfd0e10b6d6fa71beefdc17</sys_id>
+<sys_mod_count>3</sys_mod_count>
+<sys_updated_by>Abdullah</sys_updated_by>
+<sys_updated_on>2024-05-09 07:01:42</sys_updated_on>
+<u_base_value>1</u_base_value>
+<u_data_source>automated</u_data_source>
+<u_due_days/>
+<u_frequency>monthly</u_frequency>
+<u_kpi_name>Employee Well-being</u_kpi_name>
+<u_methodology>ab</u_methodology>
+<u_min_value>2</u_min_value>
+<u_next_execution_date/>
+<u_start_date/>
+<u_stretch_value>2</u_stretch_value>
+<u_teams>bb0e8997fb390e10299cf832ceefdc0e</u_teams>
+<u_type_of_kpi>3</u_type_of_kpi>
+<u_unit>number</u_unit>
+</u_kpi>
+</unload>

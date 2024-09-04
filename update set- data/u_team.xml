@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<unload unload_date="2024-09-04 13:45:34">
+<u_team action="INSERT_OR_UPDATE">
+<sys_created_by>Abd-Allah_CPD</sys_created_by>
+<sys_created_on>2024-05-05 13:40:04</sys_created_on>
+<sys_id>e1e6caa8fb4a8650299cf832ceefdc09</sys_id>
+<sys_mod_count>6</sys_mod_count>
+<sys_updated_by>oscar</sys_updated_by>
+<sys_updated_on>2024-05-07 12:12:09</sys_updated_on>
+<u_manager display_value="Adela Cervantsz">0a826bf03710200044e0bfc8bcbe5d7a</u_manager>
+<u_name>Marketing Taskforce</u_name>
+<u_project_manager display_value="Ahmad Team Owner">62826bf03710200044e0bfc8bcbe5df1</u_project_manager>
+<u_users>35ea758087d4c910a75c0e16cebb35bc,9fda718087d4c910a75c0e16cebb3578,eedbfafffbf14250299cf832ceefdc05,b8400ebcfb4a0a50b6d6fa71beefdcb4,8c3b3673fb354250299cf832ceefdc4f</u_users>
+</u_team>
+<u_team action="INSERT_OR_UPDATE">
+<sys_created_by>riham.ahmed</sys_created_by>
+<sys_created_on>2024-05-05 11:13:44</sys_created_on>
+<sys_id>f065a168fb468650299cf832ceefdc75</sys_id>
+<sys_mod_count>5</sys_mod_count>
+<sys_updated_by>oscar</sys_updated_by>
+<sys_updated_on>2024-05-08 10:41:18</sys_updated_on>
+<u_manager display_value="Ahmad Team Owner">62826bf03710200044e0bfc8bcbe5df1</u_manager>
+<u_name>Admin</u_name>
+<u_project_manager display_value="Ahmad Team Owner">62826bf03710200044e0bfc8bcbe5df1</u_project_manager>
+<u_users>8c3b3673fb354250299cf832ceefdc4f,ccab76b3fb354250299cf832ceefdc7f</u_users>
+</u_team>
+<u_team action="INSERT_OR_UPDATE">
+<sys_created_by>taha.admin</sys_created_by>
+<sys_created_on>2024-05-02 11:39:53</sys_created_on>
+<sys_id>548e82effbbd8e10299cf832ceefdcec</sys_id>
+<sys_mod_count>23</sys_mod_count>
+<sys_updated_by>amr.mohamed</sys_updated_by>
+<sys_updated_on>2024-05-08 13:34:16</sys_updated_on>
+<u_manager display_value="Amr Mohamed">731e152ffbf98e10b6d6fa71beefdc9b</u_manager>
+<u_name>Human Capital</u_name>
+<u_project_manager display_value="Amr Mohamed">731e152ffbf98e10b6d6fa71beefdc9b</u_project_manager>
+<u_users>9f5f6deffb7d8e10b6d6fa71beefdc58,c2f2641ffb750e10b6d6fa71beefdcd9,6a22a0dbfb750e10b6d6fa71beefdcfa,8c3b3673fb354250299cf832ceefdc4f,731e152ffbf98e10b6d6fa71beefdc9b</u_users>
+</u_team>
+<u_team action="INSERT_OR_UPDATE">
+<sys_created_by>oscar</sys_created_by>
+<sys_created_on>2024-05-06 21:19:57</sys_created_on>
+<sys_id>c3c97001fbc28a50b6d6fa71beefdccb</sys_id>
+<sys_mod_count>6</sys_mod_count>
+<sys_updated_by>oscar</sys_updated_by>
+<sys_updated_on>2024-05-08 10:39:43</sys_updated_on>
+<u_manager display_value="Oscar Faura">b8400ebcfb4a0a50b6d6fa71beefdcb4</u_manager>
+<u_name>Investment Operations</u_name>
+<u_project_manager display_value="Ahmad Team Owner">62826bf03710200044e0bfc8bcbe5df1</u_project_manager>
+<u_users>62826bf03710200044e0bfc8bcbe5df1</u_users>
+</u_team>
+<u_team action="INSERT_OR_UPDATE">
+<sys_created_by>riham.ahmed</sys_created_by>
+<sys_created_on>2024-05-05 15:27:00</sys_created_on>
+<sys_id>8b6f962cfb0e8650299cf832ceefdc96</sys_id>
+<sys_mod_count>9</sys_mod_count>
+<sys_updated_by>oscar</sys_updated_by>
+<sys_updated_on>2024-05-08 11:35:11</sys_updated_on>
+<u_manager display_value="Cathryn Mouse">e5ea358087d4c910a75c0e16cebb35f9</u_manager>
+<u_name>Treasury</u_name>
+<u_project_manager display_value="Oscar Faura">b8400ebcfb4a0a50b6d6fa71beefdcb4</u_project_manager>
+<u_users>0aeab58087d4c910a75c0e16cebb351f,f3dab18087d4c910a75c0e16cebb3532,8c3b3673fb354250299cf832ceefdc4f</u_users>
+</u_team>
+<u_team action="INSERT_OR_UPDATE">
+<sys_created_by>riham.ahmed</sys_created_by>
+<sys_created_on>2024-05-05 15:41:14</sys_created_on>
+<sys_id>57a2eea0fb4e8650299cf832ceefdcdd</sys_id>
+<sys_mod_count>9</sys_mod_count>
+<sys_updated_by>amr.mohamed</sys_updated_by>
+<sys_updated_on>2024-05-08 13:34:35</sys_updated_on>
+<u_manager display_value="Talal  Business Owner">e94afafffbf14250299cf832ceefdc9c</u_manager>
+<u_name>CFO Office</u_name>
+<u_project_manager display_value="Amr Mohamed">731e152ffbf98e10b6d6fa71beefdc9b</u_project_manager>
+<u_users>432c7325931721100143ad44246a4db5,8c3b3673fb354250299cf832ceefdc4f,731e152ffbf98e10b6d6fa71beefdc9b</u_users>
+</u_team>
+<u_team action="INSERT_OR_UPDATE">
+<sys_created_by>Abd-Allah_CPD</sys_created_by>
+<sys_created_on>2024-05-06 07:06:56</sys_created_on>
+<sys_id>5b8675b8fb0a0a50b6d6fa71beefdc43</sys_id>
+<sys_mod_count>5</sys_mod_count>
+<sys_updated_by>amr.mohamed</sys_updated_by>
+<sys_updated_on>2024-05-08 13:36:36</sys_updated_on>
+<u_manager display_value="Talal  Business Owner">e94afafffbf14250299cf832ceefdc9c</u_manager>
+<u_name>IT</u_name>
+<u_project_manager display_value="Ahmad Team Owner">62826bf03710200044e0bfc8bcbe5df1</u_project_manager>
+<u_users>ba2c76f3fb354250299cf832ceefdc0a,8c3b3673fb354250299cf832ceefdc4f,eedbfafffbf14250299cf832ceefdc05,731e152ffbf98e10b6d6fa71beefdc9b</u_users>
+</u_team>
+<u_team action="INSERT_OR_UPDATE">
+<sys_created_by>yossra.mohamed</sys_created_by>
+<sys_created_on>2024-05-01 12:19:06</sys_created_on>
+<sys_id>bb0e8997fb390e10299cf832ceefdc0e</sys_id>
+<sys_mod_count>14</sys_mod_count>
+<sys_updated_by>oscar</sys_updated_by>
+<sys_updated_on>2024-05-08 10:39:35</sys_updated_on>
+<u_manager display_value="Talal  Business Owner">e94afafffbf14250299cf832ceefdc9c</u_manager>
+<u_name>Investment Strategy</u_name>
+<u_project_manager display_value="Ahmad Team Owner">62826bf03710200044e0bfc8bcbe5df1</u_project_manager>
+<u_users>6a22a0dbfb750e10b6d6fa71beefdcfa,c2f2641ffb750e10b6d6fa71beefdcd9,8c3b3673fb354250299cf832ceefdc4f</u_users>
+</u_team>
+<u_team action="INSERT_OR_UPDATE">
+<sys_created_by>riham.ahmed</sys_created_by>
+<sys_created_on>2024-05-01 15:09:48</sys_created_on>
+<sys_id>c715f5dffbfd0e10b6d6fa71beefdc89</sys_id>
+<sys_mod_count>14</sys_mod_count>
+<sys_updated_by>amr.mohamed</sys_updated_by>
+<sys_updated_on>2024-05-08 13:36:12</sys_updated_on>
+<u_manager display_value="Talal  Business Owner">e94afafffbf14250299cf832ceefdc9c</u_manager>
+<u_name>Finance Committee</u_name>
+<u_project_manager display_value="Amr Mohamed">731e152ffbf98e10b6d6fa71beefdc9b</u_project_manager>
+<u_users>8c3b3673fb354250299cf832ceefdc4f,ccab76b3fb354250299cf832ceefdc7f,b8400ebcfb4a0a50b6d6fa71beefdcb4,731e152ffbf98e10b6d6fa71beefdc9b</u_users>
+</u_team>
+</unload>
