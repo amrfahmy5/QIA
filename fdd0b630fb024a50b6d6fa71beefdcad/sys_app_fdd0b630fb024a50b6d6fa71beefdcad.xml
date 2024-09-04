@@ -49,6 +49,7 @@
         <chunk_size_bytes>700000</chunk_size_bytes>
         <compressed>true</compressed>
         <content_type>image/jpeg</content_type>
+        <encryption_context/>
         <file_name>kpi.jpg</file_name>
         <hash>a0c3edff48a84d32dbaa383522bcc0016f7e61b97eeaddc06fab68591ab30fbc</hash>
         <image_height>313</image_height>
