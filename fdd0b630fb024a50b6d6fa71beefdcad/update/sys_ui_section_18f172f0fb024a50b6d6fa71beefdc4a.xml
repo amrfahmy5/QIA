@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="KPI" section_id="18f172f0fb024a50b6d6fa71beefdc4a" sys_domain="global" table="u_kpi" version="3" view="workspace-kpis-and-projects-0">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_kpi_name</element>
+            <position>0</position>
+            <sys_created_by>oscar</sys_created_by>
+            <sys_created_on>2024-05-06 11:26:08</sys_created_on>
+            <sys_id>9cf172f0fb024a50b6d6fa71beefdc4b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="KPI" display_value="KPI" name="u_kpi" sys_domain="global" view="20e13eb005024a50163e67b993aad16c">18f172f0fb024a50b6d6fa71beefdc4a</sys_ui_section>
+            <sys_updated_by>oscar</sys_updated_by>
+            <sys_updated_on>2024-05-06 11:26:08</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>1</position>
+            <sys_created_by>oscar</sys_created_by>
+            <sys_created_on>2024-05-06 11:26:08</sys_created_on>
+            <sys_id>94f172f0fb024a50b6d6fa71beefdc50</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="KPI" display_value="KPI" name="u_kpi" sys_domain="global" view="20e13eb005024a50163e67b993aad16c">18f172f0fb024a50b6d6fa71beefdc4a</sys_ui_section>
+            <sys_updated_by>oscar</sys_updated_by>
+            <sys_updated_on>2024-05-06 11:26:08</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_data_source</element>
+            <position>2</position>
+            <sys_created_by>oscar</sys_created_by>
+            <sys_created_on>2024-05-06 11:26:08</sys_created_on>
+            <sys_id>94f172f0fb024a50b6d6fa71beefdc4c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="KPI" display_value="KPI" name="u_kpi" sys_domain="global" view="20e13eb005024a50163e67b993aad16c">18f172f0fb024a50b6d6fa71beefdc4a</sys_ui_section>
+            <sys_updated_by>oscar</sys_updated_by>
+            <sys_updated_on>2024-05-06 11:26:08</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_methodology</element>
+            <position>3</position>
+            <sys_created_by>oscar</sys_created_by>
+            <sys_created_on>2024-05-06 11:26:08</sys_created_on>
+            <sys_id>9cf172f0fb024a50b6d6fa71beefdc50</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="KPI" display_value="KPI" name="u_kpi" sys_domain="global" view="20e13eb005024a50163e67b993aad16c">18f172f0fb024a50b6d6fa71beefdc4a</sys_ui_section>
+            <sys_updated_by>oscar</sys_updated_by>
+            <sys_updated_on>2024-05-06 11:26:08</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_min_value</element>
+            <position>4</position>
+            <sys_created_by>oscar</sys_created_by>
+            <sys_created_on>2024-05-06 11:26:08</sys_created_on>
+            <sys_id>9cf172f0fb024a50b6d6fa71beefdc4c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="KPI" display_value="KPI" name="u_kpi" sys_domain="global" view="20e13eb005024a50163e67b993aad16c">18f172f0fb024a50b6d6fa71beefdc4a</sys_ui_section>
+            <sys_updated_by>oscar</sys_updated_by>
+            <sys_updated_on>2024-05-06 11:26:08</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_stretch_value</element>
+            <position>5</position>
+            <sys_created_by>oscar</sys_created_by>
+            <sys_created_on>2024-05-06 11:26:08</sys_created_on>
+            <sys_id>94f172f0fb024a50b6d6fa71beefdc51</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="KPI" display_value="KPI" name="u_kpi" sys_domain="global" view="20e13eb005024a50163e67b993aad16c">18f172f0fb024a50b6d6fa71beefdc4a</sys_ui_section>
+            <sys_updated_by>oscar</sys_updated_by>
+            <sys_updated_on>2024-05-06 11:26:08</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>6</position>
+            <sys_created_by>oscar</sys_created_by>
+            <sys_created_on>2024-05-06 11:26:08</sys_created_on>
+            <sys_id>94f172f0fb024a50b6d6fa71beefdc4d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="KPI" display_value="KPI" name="u_kpi" sys_domain="global" view="20e13eb005024a50163e67b993aad16c">18f172f0fb024a50b6d6fa71beefdc4a</sys_ui_section>
+            <sys_updated_by>oscar</sys_updated_by>
+            <sys_updated_on>2024-05-06 11:26:08</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_type_of_kpi</element>
+            <position>7</position>
+            <sys_created_by>oscar</sys_created_by>
+            <sys_created_on>2024-05-06 11:26:08</sys_created_on>
+            <sys_id>9cf172f0fb024a50b6d6fa71beefdc51</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="KPI" display_value="KPI" name="u_kpi" sys_domain="global" view="20e13eb005024a50163e67b993aad16c">18f172f0fb024a50b6d6fa71beefdc4a</sys_ui_section>
+            <sys_updated_by>oscar</sys_updated_by>
+            <sys_updated_on>2024-05-06 11:26:08</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_unit</element>
+            <position>8</position>
+            <sys_created_by>oscar</sys_created_by>
+            <sys_created_on>2024-05-06 11:26:08</sys_created_on>
+            <sys_id>9cf172f0fb024a50b6d6fa71beefdc4d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="KPI" display_value="KPI" name="u_kpi" sys_domain="global" view="20e13eb005024a50163e67b993aad16c">18f172f0fb024a50b6d6fa71beefdc4a</sys_ui_section>
+            <sys_updated_by>oscar</sys_updated_by>
+            <sys_updated_on>2024-05-06 11:26:08</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_base_value</element>
+            <position>9</position>
+            <sys_created_by>oscar</sys_created_by>
+            <sys_created_on>2024-05-06 11:26:08</sys_created_on>
+            <sys_id>94f172f0fb024a50b6d6fa71beefdc52</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="KPI" display_value="KPI" name="u_kpi" sys_domain="global" view="20e13eb005024a50163e67b993aad16c">18f172f0fb024a50b6d6fa71beefdc4a</sys_ui_section>
+            <sys_updated_by>oscar</sys_updated_by>
+            <sys_updated_on>2024-05-06 11:26:08</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>10</position>
+            <sys_created_by>oscar</sys_created_by>
+            <sys_created_on>2024-05-06 11:26:08</sys_created_on>
+            <sys_id>94f172f0fb024a50b6d6fa71beefdc4e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="KPI" display_value="KPI" name="u_kpi" sys_domain="global" view="20e13eb005024a50163e67b993aad16c">18f172f0fb024a50b6d6fa71beefdc4a</sys_ui_section>
+            <sys_updated_by>oscar</sys_updated_by>
+            <sys_updated_on>2024-05-06 11:26:08</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_frequency</element>
+            <position>11</position>
+            <sys_created_by>oscar</sys_created_by>
+            <sys_created_on>2024-05-06 11:26:08</sys_created_on>
+            <sys_id>9cf172f0fb024a50b6d6fa71beefdc52</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="KPI" display_value="KPI" name="u_kpi" sys_domain="global" view="20e13eb005024a50163e67b993aad16c">18f172f0fb024a50b6d6fa71beefdc4a</sys_ui_section>
+            <sys_updated_by>oscar</sys_updated_by>
+            <sys_updated_on>2024-05-06 11:26:08</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>12</position>
+            <sys_created_by>oscar</sys_created_by>
+            <sys_created_on>2024-05-06 11:26:08</sys_created_on>
+            <sys_id>9cf172f0fb024a50b6d6fa71beefdc4e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="KPI" display_value="KPI" name="u_kpi" sys_domain="global" view="20e13eb005024a50163e67b993aad16c">18f172f0fb024a50b6d6fa71beefdc4a</sys_ui_section>
+            <sys_updated_by>oscar</sys_updated_by>
+            <sys_updated_on>2024-05-06 11:26:08</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_next_execution_date</element>
+            <position>13</position>
+            <sys_created_by>oscar</sys_created_by>
+            <sys_created_on>2024-05-06 11:26:08</sys_created_on>
+            <sys_id>94f172f0fb024a50b6d6fa71beefdc53</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="KPI" display_value="KPI" name="u_kpi" sys_domain="global" view="20e13eb005024a50163e67b993aad16c">18f172f0fb024a50b6d6fa71beefdc4a</sys_ui_section>
+            <sys_updated_by>oscar</sys_updated_by>
+            <sys_updated_on>2024-05-06 11:26:08</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>14</position>
+            <sys_created_by>oscar</sys_created_by>
+            <sys_created_on>2024-05-06 11:26:08</sys_created_on>
+            <sys_id>94f172f0fb024a50b6d6fa71beefdc4f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="KPI" display_value="KPI" name="u_kpi" sys_domain="global" view="20e13eb005024a50163e67b993aad16c">18f172f0fb024a50b6d6fa71beefdc4a</sys_ui_section>
+            <sys_updated_by>oscar</sys_updated_by>
+            <sys_updated_on>2024-05-06 11:26:08</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_due_days</element>
+            <position>15</position>
+            <sys_created_by>oscar</sys_created_by>
+            <sys_created_on>2024-05-06 11:26:08</sys_created_on>
+            <sys_id>9cf172f0fb024a50b6d6fa71beefdc53</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="KPI" display_value="KPI" name="u_kpi" sys_domain="global" view="20e13eb005024a50163e67b993aad16c">18f172f0fb024a50b6d6fa71beefdc4a</sys_ui_section>
+            <sys_updated_by>oscar</sys_updated_by>
+            <sys_updated_on>2024-05-06 11:26:08</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>16</position>
+            <sys_created_by>oscar</sys_created_by>
+            <sys_created_on>2024-05-06 11:26:08</sys_created_on>
+            <sys_id>9cf172f0fb024a50b6d6fa71beefdc4f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="KPI" display_value="KPI" name="u_kpi" sys_domain="global" view="20e13eb005024a50163e67b993aad16c">18f172f0fb024a50b6d6fa71beefdc4a</sys_ui_section>
+            <sys_updated_by>oscar</sys_updated_by>
+            <sys_updated_on>2024-05-06 11:26:08</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_teams</element>
+            <position>17</position>
+            <sys_created_by>oscar</sys_created_by>
+            <sys_created_on>2024-05-06 11:26:08</sys_created_on>
+            <sys_id>94f172f0fb024a50b6d6fa71beefdc54</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="KPI" display_value="KPI" name="u_kpi" sys_domain="global" view="20e13eb005024a50163e67b993aad16c">18f172f0fb024a50b6d6fa71beefdc4a</sys_ui_section>
+            <sys_updated_by>oscar</sys_updated_by>
+            <sys_updated_on>2024-05-06 11:26:08</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>KPI</caption>
+            <header>false</header>
+            <name>u_kpi</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>oscar</sys_created_by>
+            <sys_created_on>2024-05-06 11:26:08</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>18f172f0fb024a50b6d6fa71beefdc4a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>u_kpi</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="KPIs and Projects" source="x_snc_kpis_and_p_0">fdd0b630fb024a50b6d6fa71beefdcad</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="KPIs and Projects">fdd0b630fb024a50b6d6fa71beefdcad</sys_scope>
+            <sys_update_name>sys_ui_section_18f172f0fb024a50b6d6fa71beefdc4a</sys_update_name>
+            <sys_updated_by>oscar</sys_updated_by>
+            <sys_updated_on>2024-05-06 11:26:08</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Workspace KPIs and Projects 0" name="workspace-kpis-and-projects-0">20e13eb005024a50163e67b993aad16c</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

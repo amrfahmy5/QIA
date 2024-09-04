@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_suggestion_reader_group">
+    <sys_suggestion_reader_group action="INSERT_OR_UPDATE">
+        <click_in_mode>false</click_in_mode>
+        <context_config_id display_value="KPIs and Projects - Workspace Search">ece13eb0d2024a5091688110d0f6376c</context_config_id>
+        <limit>5</limit>
+        <order>600</order>
+        <section_header>Suggested</section_header>
+        <suggestion_type>Search-based Suggested Results Reader Group for Starter Workspace - Workspace Search</suggestion_type>
+        <sys_class_name>sys_suggestion_reader_group</sys_class_name>
+        <sys_created_by>oscar</sys_created_by>
+        <sys_created_on>2024-05-06 11:25:55</sys_created_on>
+        <sys_id>ece13eb0d7024a502b0cbaafb4bdad7c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Search-based Suggested Results Reader Group for Starter Workspace - Workspace Search</sys_name>
+        <sys_package display_value="KPIs and Projects" source="x_snc_kpis_and_p_0">fdd0b630fb024a50b6d6fa71beefdcad</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="KPIs and Projects">fdd0b630fb024a50b6d6fa71beefdcad</sys_scope>
+        <sys_update_name>sys_suggestion_reader_group_ece13eb0d7024a502b0cbaafb4bdad7c</sys_update_name>
+        <sys_updated_by>oscar</sys_updated_by>
+        <sys_updated_on>2024-05-06 11:25:55</sys_updated_on>
+    </sys_suggestion_reader_group>
+</record_update>

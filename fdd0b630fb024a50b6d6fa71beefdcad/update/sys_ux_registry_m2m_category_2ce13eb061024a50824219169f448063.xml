@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_registry_m2m_category">
+    <sys_ux_registry_m2m_category action="INSERT_OR_UPDATE">
+        <experience_category display_value="Workspace">afb4e3e173322010f0ca1e666bf6a726</experience_category>
+        <order/>
+        <page_registry display_value="KPIs and Projects">a8e13eb03f024a50e2dbed38a830a881</page_registry>
+        <sys_class_name>sys_ux_registry_m2m_category</sys_class_name>
+        <sys_created_by>oscar</sys_created_by>
+        <sys_created_on>2024-05-06 11:25:55</sys_created_on>
+        <sys_id>2ce13eb061024a50824219169f448063</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="KPIs and Projects" source="x_snc_kpis_and_p_0">fdd0b630fb024a50b6d6fa71beefdcad</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="KPIs and Projects">fdd0b630fb024a50b6d6fa71beefdcad</sys_scope>
+        <sys_update_name>sys_ux_registry_m2m_category_2ce13eb061024a50824219169f448063</sys_update_name>
+        <sys_updated_by>oscar</sys_updated_by>
+        <sys_updated_on>2024-05-06 11:25:55</sys_updated_on>
+    </sys_ux_registry_m2m_category>
+</record_update>

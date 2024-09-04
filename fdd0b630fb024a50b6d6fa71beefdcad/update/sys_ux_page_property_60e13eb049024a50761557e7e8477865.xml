@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="INSERT_OR_UPDATE">
+        <choices/>
+        <description>L1 Configuration	</description>
+        <name>chrome_toolbar</name>
+        <page display_value="KPIs and Projects">a8e13eb03f024a50e2dbed38a830a881</page>
+        <required_translations>[ {
+  "message" : "Analytics Center",
+  "comment" : ""
+}, {
+  "message" : "Home",
+  "comment" : ""
+}, {
+  "message" : "List",
+  "comment" : ""
+} ]</required_translations>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>oscar</sys_created_by>
+        <sys_created_on>2024-05-06 11:25:54</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>60e13eb049024a50761557e7e8477865</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>chrome_toolbar</sys_name>
+        <sys_package display_value="KPIs and Projects" source="x_snc_kpis_and_p_0">fdd0b630fb024a50b6d6fa71beefdcad</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="KPIs and Projects">fdd0b630fb024a50b6d6fa71beefdcad</sys_scope>
+        <sys_update_name>sys_ux_page_property_60e13eb049024a50761557e7e8477865</sys_update_name>
+        <sys_updated_by>oscar</sys_updated_by>
+        <sys_updated_on>2024-05-07 10:15:12</sys_updated_on>
+        <type>json</type>
+        <unique_name>x_snc_kpis_and_p_0.a8e13eb03f024a50e2dbed38a830a881.root.chrome_toolbar</unique_name>
+        <value>[{"id":"home","label":{"message":"Home","translatable":true},"icon":"home-outline","viewportInfo":{},"routeInfo":{"route":"home"},"group":"top","badge":{},"presence":{},"availability":{}},{"id":"list","label":{"message":"List","translatable":true},"icon":"list-outline","viewportInfo":{},"routeInfo":{"route":"list"},"group":"top","badge":{},"presence":{},"availability":{}},{"id":"analytics-center","label":{"message":"Analytics Center","translatable":true},"icon":"analytics-center-outline","viewportInfo":{},"routeInfo":{"route":"analytics-center"},"group":"top","badge":{},"presence":{},"availability":{}}]</value>
+    </sys_ux_page_property>
+    <sys_translated_text action="delete_multiple" query="documentkey=60e13eb049024a50761557e7e8477865"/>
+</record_update>
