@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_widget">
+    <par_dashboard_widget action="INSERT_OR_UPDATE">
+        <canvas display_value="">e4e13eb0cb024a5009b29220cfc5766e</canvas>
+        <component display_value="Pivot Table">06f6aacbd1818110f877d87436272684</component>
+        <component_props>{"freezeHeader":true,"freezeFooter":false,"showPivotExpanded":true,"freezeFirstColumn":true,"showAlternateRowColors":true,"showAlternateColumnColors":false,"showRowDividers":false,"truncateFirstColumn":true,"wrapColumnHeader":false,"truncateColumnHeader":true,"showColumnDividers":true,"showRowAggregate":true,"showColumnAggregate":true,"showSubAggregate":false,"colorConfig":{"type":"default"},"enableDrilldown":true,"showZero":true,"newReporting":false,"additionalGroupByConfig":null,"dataSources":[{"isDatabaseView":false,"allowRealTime":true,"label":"KPI Instance","sourceType":"table","tableOrViewName":"u_kpi_instance_qio","filterQuery":"active=true^u_team.u_usersDYNAMIC90d1921e5f510100a9ad2572f2b477fe","preferredVisualizations":["d24d53f60350de7a652caf3188a46ed2"],"id":"dGFibGV1X2twaV9pbnN0YW5jZV9xaW8xNzE1MDE0Mjc5ODAw","dataCategories":["trend","group","simple"]}],"showHeader":true,"showTotalAggregate":true,"showFirstGroupAggregate":true,"showSecondGroupAggregate":true,"hideMatrixAggregate":false,"wrapTitle":false,"showHeaderSeparator":false,"headerTitle":"My Tasks","headingLevel":2,"showBorder":true,"bareBorder":false,"dataCategory":"group","telemetry":null,"showDataPassthrough":false,"showAdditionalGroupBySelector":false,"dataPassthrough":null,"metrics":[{"dataSource":"dGFibGV1X2twaV9pbnN0YW5jZV9xaW8xNzE1MDE0Mjc5ODAw","id":"ZEdGaWJHVjFYMnR3YVY5cGJuTjBZVzVqWlY5eGFXOHhOekUxTURFME1qYzVPREF3MTcxNTAxNDI4MDc1Mg==","aggregateFunction":"COUNT","numberFormat":{"customFormat":false},"axisId":"primary"}],"groupBy":[{"groupBy":[{"dataSource":"dGFibGV1X2twaV9pbnN0YW5jZV9xaW8xNzE1MDE0Mjc5ODAw","groupByField":"state","isRange":false,"isChoice":true,"isPaBucket":false}],"categoryIndex":0,"maxNumberOfGroups":10,"numberOfGroupsBasedOn":"NO_OF_GROUP_BASED_ON_PER_METRIC","showOthers":false,"hideZeroValues":false,"disableRanges":true},{"groupBy":[{"dataSource":"dGFibGV1X2twaV9pbnN0YW5jZV9xaW8xNzE1MDE0Mjc5ODAw","groupByField":"u_team","isRange":false,"isChoice":false,"isPaBucket":false}],"categoryIndex":1,"maxNumberOfGroups":"ALL","numberOfGroupsBasedOn":"NO_OF_GROUP_BASED_ON_PER_METRIC","showOthers":false,"hideZeroValues":false,"disableRanges":true}],"sortBy":"value","sortByOrder":"desc","trendBy":null,"showChange":false,"showChangePercentage":false,"showTarget":false,"showForecast":false,"showForecastRange":false,"showTrend":false,"showConfidenceBand":false,"showGapPercentage":false,"showSparkline":false,"showMetricLabel":false,"showThreshold":false,"showComment":false,"followFilters":true,"showFilterIcon":true,"enableRealTimeUpdate":false,"enableClickAndStay":false,"enableCustomEmptyState":false,"componentId":"1aeasaoz","emptyStateIllustration":"no-data","emptyStateHeading":"No data available.","emptyStateContent":"There are no scores available for the selected criteria. Contact your admin for more info.","emptyStateAlignment":"vertical-centered","hideDevSettings":false,"filterConfigurations":"@state.parFilters","contextMenuActions":[],"showMaximumRange":false,"allowChangeDateRange":false,"showDateRangeByDefault":false,"applyDateRange":false,"numberOfPeriods":3,"showAbsolutePeriod":false,"scoreType":"latest","showChangeFrom":false,"period":"M","dateFormat":"default","noDebounce":true}</component_props>
+        <h>14</h>
+        <name/>
+        <stored_component/>
+        <sys_class_name>par_dashboard_widget</sys_class_name>
+        <sys_created_by>oscar</sys_created_by>
+        <sys_created_on>2024-05-06 16:56:29</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>db8dbb38fb4a4a50b6d6fa71beefdca7</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="KPIs and Projects" source="x_snc_kpis_and_p_0">fdd0b630fb024a50b6d6fa71beefdcad</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="KPIs and Projects">fdd0b630fb024a50b6d6fa71beefdcad</sys_scope>
+        <sys_update_name>par_dashboard_widget_db8dbb38fb4a4a50b6d6fa71beefdca7</sys_update_name>
+        <sys_updated_by>oscar</sys_updated_by>
+        <sys_updated_on>2024-05-06 16:57:25</sys_updated_on>
+        <visualization/>
+        <w>32</w>
+        <widget_props/>
+        <x>16</x>
+        <y>0</y>
+    </par_dashboard_widget>
+</record_update>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ais_search_profile_ais_search_source_m2m">
+    <ais_search_profile_ais_search_source_m2m action="INSERT_OR_UPDATE">
+        <profile display_value="kpis-and-projects Search Profile">60e13eb06a024a506859cd05a162b282</profile>
+        <search_source display_value="Team">17e132f0fb024a50b6d6fa71beefdc38</search_source>
+        <sys_class_name>ais_search_profile_ais_search_source_m2m</sys_class_name>
+        <sys_created_by>oscar</sys_created_by>
+        <sys_created_on>2024-05-06 11:26:04</sys_created_on>
+        <sys_id>53e132f0fb024a50b6d6fa71beefdc47</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>kpis-and-projects Search Profile.Team</sys_name>
+        <sys_package display_value="KPIs and Projects" source="x_snc_kpis_and_p_0">fdd0b630fb024a50b6d6fa71beefdcad</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="KPIs and Projects">fdd0b630fb024a50b6d6fa71beefdcad</sys_scope>
+        <sys_update_name>ais_search_profile_ais_search_source_m2m_53e132f0fb024a50b6d6fa71beefdc47</sys_update_name>
+        <sys_updated_by>oscar</sys_updated_by>
+        <sys_updated_on>2024-05-06 11:26:04</sys_updated_on>
+    </ais_search_profile_ais_search_source_m2m>
+</record_update>
